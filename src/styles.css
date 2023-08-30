@@ -1,0 +1,7 @@
+@import url('@unocss/reset/tailwind.css');
+
+:root {
+  color-scheme: light dark;
+  background-color: Canvas;
+  color: CanvasText;
+}
